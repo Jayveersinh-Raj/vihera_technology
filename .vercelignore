@@ -1,0 +1,5 @@
+# Deploy only the site itself: the source brochures and logo at the repo root
+# are already published from assets/, and .claude is local tooling.
+.claude
+/logo.jpg
+/*.pdf
